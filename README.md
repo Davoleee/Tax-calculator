@@ -1,4 +1,4 @@
-# 🧮 2009 Federal Income Tax Calculator
+# 🧮 2009 Federal Income Tax Calculator [A COS 201 Project]
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
